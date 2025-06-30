@@ -1,0 +1,14 @@
+{
+  "name": "datamorph",
+  "version": "1.0.0",
+  "description": "Provides utility functions to transform data",
+  "main": "flatten-array.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Clare Lindley",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
